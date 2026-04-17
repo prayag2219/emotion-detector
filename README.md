@@ -1,4 +1,6 @@
-# Emotion Detector
+# Final Project: Emotion Detector
+
+This is the Final Project for Emotion Detection using Watson NLP and Flask.
 
 ## Description
 AI-based emotion detection web app using Watson NLP and Flask.
